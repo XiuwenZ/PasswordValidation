@@ -1,0 +1,19 @@
+Pasw4o! 	The password is invalid.
+12345ABCDE 	The password is invalid.
+12345abcde 	The password is invalid.
+78709Hey 	The password is invalid.
+1223455$ 	The password is invalid.
+ABCDEFGHI 	The password is invalid.
+78974786869 	The password is invalid.
+CISCProfE1! 	The password is valid.
+H I h e ww# 	The password is invalid.
+Pass123894% 	The password is valid.
+hfeh898@. 	The password is invalid.
+Fjfo  hh98% 	The password is invalid.
+HIHih7808 ? 	The password is invalid.
+Hello7890! 	The password is valid.
+Valid809! 	The password is valid.
+NOTVALID89* 	The password is invalid.
+CallMe123! 	The password is valid.
+Happy$$$100 	The password is valid.
+Finished reading and processing all the data.
