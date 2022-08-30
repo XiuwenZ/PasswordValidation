@@ -12,7 +12,7 @@ public class PasswordValidation {
 	
 	public static void main(String[] args) throws Exception {		
 
-		PrintWriter output = new PrintWriter("output5.txt");
+		PrintWriter output = new PrintWriter("output.txt");
 		
 		String[] passwords = new String[50];
 		
